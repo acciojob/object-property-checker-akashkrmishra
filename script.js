@@ -4,10 +4,10 @@ function hasKey(key) {
 	
   //   write your code here
 if (haskey(key)=="red" || haskey(key)=="white" ) {
-	return true;
+	return (key);
 }
 	else{
-		return false;
+		return (key);
 	}
 
 }
